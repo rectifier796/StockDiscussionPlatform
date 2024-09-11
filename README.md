@@ -17,6 +17,11 @@ Create and setup .env file.
 ```
 *Look into .env.example for reference*
 ```
+Postman - API Documentation
+```
+https://documenter.getpostman.com/view/20102167/2sAXjT1pfZ
+```
+
 Run Command
 ```
 npm run dev
