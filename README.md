@@ -25,5 +25,6 @@ npm run dev
 Postman - API Documentation
 ```
 https://documenter.getpostman.com/view/20102167/2sAXjT1pfZ
+[https://documenter.getpostman.com/view/20102167/2sAXjT1pfZ](https://documenter.getpostman.com/view/20102167/2sAXjT1pfZ)
 ```
 
